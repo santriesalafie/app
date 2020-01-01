@@ -3,7 +3,7 @@
   "short_name": "SANTRIE SALAFIE",
   "start_url": "https://www.santriesalafie.com/",
   "display": "standalone",
-  "background_color": "#fff",
+  "background_color": "linear-gradient(to right top, #ff0091, #f000a8, #db1bc0, #bc32d6, #9245ea, #6b67f9, #3f7fff, #0092ff, #00b2ff, #00cfff, #00e8ff, #00ffef)",
   "theme_color": "#2B0C93",
   "description": "Santrie Salafie is a site with a variety of topic choices, which aims to provide useful information to everyone in online media.",
   "icons": [{
